@@ -1,0 +1,224 @@
+{
+    "projects": {
+        "project-name": "",
+        "description": "",
+        "family": "",
+        "type": "",
+        "content-type": "",
+        "project-page": "",
+        "project-fediverse-account": "",
+        "project-accounts": ["",""],
+        "license": "",
+        "founding-year": 2025,
+        "active": true,
+        "logo-license": "",
+        "logos": {
+            "color-logo": "",
+            "black-logo": "",
+            "white-logo": "",
+            "wordmark-logo": ""
+        },
+        "colors": [
+            "",
+            ""
+        ],
+        "logo-source": [
+            "",
+            ""
+        ],
+        "git-repo": "",
+        "languages": [
+            "",
+            ""
+        ],
+        "database": [
+            "",
+            ""
+        ],
+        "protocols": [
+            "",
+            ""
+        ],
+        "founders": [
+            {
+                "name": "",
+                "web": "",
+                "email": "",
+                "account": ""
+            },
+            {
+                "name": "",
+                "web": "",
+                "email": "",
+                "account": ""
+            },
+            {
+                "name": "",
+                "web": "",
+                "email": "",
+                "account": ""
+            }
+        ],
+        "maintainers": [
+            {
+                "name": "*",
+                "account": "https://github.com/*"
+            },
+            {
+                "name": "*",
+                "account": "https://github.com/*"
+            },
+            {
+                "name": "*",
+                "account": "https://github.com/*"
+            }
+        ],
+        "founding": [
+            {
+                "type": "patreon",
+                "data": ""
+            },
+            {
+                "type": "librapay",
+                "data": ""
+            },
+            {
+                "type": "opencollective",
+                "data": ""
+            },
+            {
+                "type": "paypal",
+                "data": ""
+            }
+        ],
+        "socialhub": "https://socialhub.activitypub.rocks/c/software/*",
+        "joinfediverse-wiki": "https://joinfediverse.wiki/*",
+        "wikidata-id": "",
+        "wikipedia-links": [
+            {
+                "lang": "",
+                "url": ""
+            },
+            {
+                "lang": "",
+                "url": ""
+            },
+            {
+                "lang": "",
+                "url": ""
+            },
+            {
+                "lang": "",
+                "url": ""
+            }
+        ]
+    },
+    "protocols": {
+        "protocol-name": "",
+        "description": "",
+        "protocol-page": "",
+        "w3c-standard": "",
+        "w3c-page": "",
+        "start-year": 2025,
+        "last-version": 2025,
+        "deprecated": false,
+        "logo-license": "",
+        "logos": {
+            "color-logo": "",
+            "black-logo": "",
+            "white-logo": "",
+            "wordmark-logo": ""
+        },
+        "colors": [
+            "",
+            ""
+        ],
+        "logo-source": [
+            "",
+            ""
+        ],
+        "git-repo": "",
+        "wikidata-id": "",
+        "wikipedia-links": [
+            {
+                "lang": "",
+                "url": ""
+            },
+            {
+                "lang": "",
+                "url": ""
+            },
+            {
+                "lang": "",
+                "url": ""
+            },
+            {
+                "lang": "",
+                "url": ""
+            }
+        ]
+    },
+    "organizations": {
+        "organization-name": "",
+        "description": "",
+        "organization-page": "",
+        "organization-email": "",
+        "organization-fediverse-account": "",
+        "organization-accounts": ["",""],
+        "founding-year": 2025,
+        "active": true,
+        "logo-license": "",
+        "logos": {
+            "color-logo": "",
+            "black-logo": "",
+            "white-logo": "",
+            "wordmark-logo": ""
+        },
+        "colors": [
+            "",
+            ""
+        ],
+        "logo-source": [
+            "",
+            ""
+        ],
+        "git-repo": "",
+        "founding": [
+            {
+                "type": "patreon",
+                "data": ""
+            },
+            {
+                "type": "librapay",
+                "data": ""
+            },
+            {
+                "type": "opencollective",
+                "data": ""
+            },
+            {
+                "type": "paypal",
+                "data": ""
+            }
+        ],
+        "wikidata-id": "",
+        "wikipedia-links": [
+            {
+                "lang": "",
+                "url": ""
+            },
+            {
+                "lang": "",
+                "url": ""
+            },
+            {
+                "lang": "",
+                "url": ""
+            },
+            {
+                "lang": "",
+                "url": ""
+            }
+        ]
+    }
+}
